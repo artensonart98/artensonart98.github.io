@@ -37,7 +37,7 @@
 
 #main {
   z-index: -1;
-  background-image:url("../images/main.jpg");
+  background-image:url("main.jpg");
   height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
